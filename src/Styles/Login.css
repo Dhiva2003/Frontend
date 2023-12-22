@@ -1,0 +1,28 @@
+.container{
+    max-width: 400px;
+    margin-top: 400px auto;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 5px;
+    box-shadow:0px 0px 10px rgb(63, 59, 59) ;
+    background-image: url('https://i0.wp.com/picjumbo.com/wp-content/uploads/pure-nature-landscape-single-tree-in-green-field-free-photo.jpg?w=600&quality=80');
+}
+
+h1{
+    text-align: center;
+}
+label
+{
+    font-weight: bold;
+}
+.form-control{
+    margin-bottom: 15px;
+
+}
+.btn-primary{
+    width: 100%;
+    background-color: blueviolet;
+    color:#fff;
+    border: navajowhite;
+}
